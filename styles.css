@@ -36,8 +36,8 @@ header {
 }
 
 .profile-image {
-  width: 180px;           /* Shrinking the size (adjust this number as you like) */
-  height: 180px;          /* Must match width for a circle */
+  width: 300px;           /* Shrinking the size (adjust this number as you like) */
+  height: 250px;          /* Must match width for a circle */
   object-fit: cover;      /* Ensures your photo isn't squashed */
   border-radius: 50%;
   border: 5px solid white; /* Clean white border */
